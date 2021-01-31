@@ -1,6 +1,5 @@
 import React, { Component } from "react";
-import farmer from "../assets/imgs/farmer.png";
-
+import acom_logo from "../assets/imgs/ACOM.png";
 
 class Navbar extends Component {
   render() {
@@ -13,13 +12,13 @@ class Navbar extends Component {
           rel="noopener noreferrer"
         >
           <img
-            src={farmer}
+            src={acom_logo}
             width="30"
             height="30"
             className="d-inline-block align-top"
             alt=""
           />
-          &nbsp; ACOM Yield Farm <sub>1.0.0</sub>
+          &nbsp; ACOM Yield Farm
         </a>
 
         <ul className="navbar-nav px-3">

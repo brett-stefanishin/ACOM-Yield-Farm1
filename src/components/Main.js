@@ -1,19 +1,20 @@
 import React, { Component } from "react";
-import farmer from "../assets/imgs/farmer.png";
+import acom_logo from "../assets/imgs/ACOM.png";
 var updateamount;
 let amount;
 //let withdrawEnabled;
+
 class Main extends Component {
   render() {
     return (
       <div id="content" className="mt-3 text-center">
       <div id="theBigShow" className="lowerBold sextext theBigShow titleText">
-      Welcome to the ACOM Yield Farm
+        Welcome to the ACOM Yield Farm
       </div>
       <br></br>
         <div className="card mb-4">
           <div className="card-body">
-          <span className="underTitle">You Current ACOM Community Token Balances:</span><br></br>
+          <span className="underTitle">Your Current Token Balances:</span><br></br>
           <table className="table table-borderless text-muted text-center">
             <thead>
 
@@ -64,7 +65,7 @@ class Main extends Component {
                 />
                 <div className="input-group-append">
                   <div className="input-group-text">
-                    <img src={farmer} height="32" alt="DAI Token" />
+                    <img src={acom_logo} height="32" alt="DAI Token" />
                     &nbsp;&nbsp;&nbsp; ACOM
                   </div>
                 </div>
@@ -96,11 +97,11 @@ class Main extends Component {
             &nbsp;<br></br>
             &nbsp;<br></br>
             <span id="guesstimate" className="guesstimate">
-            Attempting to Load Investment Data
+              Attempting to Load Investment Data
             </span>
             <hr></hr>
             <span className="text-center text-muted">
-            A limited 1,000,000 AGOV will be distributed to community members staking their ACOM for a minimum of 6 months timelock between being able to withdraw them. Your initial ACOM investment will be retained and you'll earn AGOV community governance tokens at a rate of roughly 0.00136986301 AGOV per day per ACOM staking estimated to remain staking over the next 2 years of distribution before supply runs out.
+              A limited 1,000,000 AGOV will be distributed to community members staking their ACOM for a minimum of 6 months timelock between being able to withdraw them. Your initial ACOM investment will be retained and you'll earn AGOV community governance tokens at a rate of roughly 0.00136986301 AGOV per day per ACOM staking estimated to remain staking over the next 2 years of distribution before supply runs out.
             </span>
             &nbsp;<br></br>
             &nbsp;<br></br>
@@ -112,7 +113,7 @@ class Main extends Component {
           </label>
           <br></br>
           <span id="totalEthPrice" className="totalEthPrice">&nbsp;
-          Connecting to API
+            Connecting to API
           </ span>
         </ div>
       </div>
