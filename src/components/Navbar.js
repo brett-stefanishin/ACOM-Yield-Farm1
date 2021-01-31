@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import farmer from "../farmer.png";
+import farmer from "../assets/imgs/farmer.png";
 
 
 class Navbar extends Component {
