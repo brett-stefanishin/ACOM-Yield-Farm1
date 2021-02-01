@@ -9,7 +9,7 @@ class Main extends Component {
     return (
       <div id="content" className="mt-3 text-center">
       <div id="theBigShow" className="lowerBold sextext theBigShow titleText">
-        Welcome to the ACOM Yield Farm
+        Welcome to the ACOM Yield Farm on Binance Smart Chain
       </div>
       <br></br>
         <div className="card mb-4">
@@ -107,15 +107,6 @@ class Main extends Component {
             &nbsp;<br></br>
           </div>
         </div>
-        <div className="col" >
-          <label className="lowerBold sextext">
-            Ethereum Price in USD:
-          </label>
-          <br></br>
-          <span id="totalEthPrice" className="totalEthPrice">&nbsp;
-            Connecting to API
-          </ span>
-        </ div>
       </div>
     );
   }

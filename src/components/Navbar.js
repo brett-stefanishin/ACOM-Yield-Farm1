@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import acom_logo from "../assets/imgs/ACOM.png";
+import "./Navbar.css";
 
 class Navbar extends Component {
   render() {
@@ -18,7 +19,7 @@ class Navbar extends Component {
             className="d-inline-block align-top"
             alt=""
           />
-          &nbsp; ACOM Yield Farm
+          &nbsp; ACOM Yield Farm <i className ="binanceNavTitle"> On Binance Smart Chain </i>
         </a>
 
         <ul className="navbar-nav px-3">
