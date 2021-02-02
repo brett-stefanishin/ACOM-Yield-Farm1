@@ -8,19 +8,19 @@ const routes = [
   {
     key: "Pairs",
     exact: true,
-    path: "/ACOM-AGOV/pairs",
+    path: "/pairs",
     component: Pairs,
   },
   {
     key: "ETHPair",
     exact: true,
-    path: "/ACOM-AGOV/ETH",
+    path: "/acom-agov/eth",
     component: ETHPair,
   },
   {
     key: "BNBPair",
     exact: true,
-    path: "/ACOM-AGOV/BNB",
+    path: "/acom-agov/bnb",
     component: BNBPair,
   }
 ];

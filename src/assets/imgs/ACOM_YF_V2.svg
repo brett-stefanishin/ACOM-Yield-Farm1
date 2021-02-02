@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="#f2e4e4" stroke="#707070" stroke-width="1">
+      <rect width="1920" height="90" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1919" height="89" fill="none"/>
+    </g>
+    <text id="ACOM_Yield_Farm" data-name="ACOM Yield Farm" transform="translate(32 64)" font-size="47" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">ACOM Yield Farm</tspan></text>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(74 247)" fill="#f2e4e4" stroke="#707070" stroke-width="1">
+      <rect width="1754" height="400" rx="43" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1753" height="399" rx="42.5" fill="none"/>
+    </g>
+    <text id="Pairs" transform="translate(100 223)" font-size="54" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Pairs</tspan></text>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1387 312)" fill="#fff" stroke="#000" stroke-width="3">
+      <rect width="410" height="88" rx="44" stroke="none"/>
+      <rect x="1.5" y="1.5" width="407" height="85" rx="42.5" fill="none"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(1387 468)" fill="#fff" stroke="#000" stroke-width="3">
+      <rect width="410" height="88" rx="44" stroke="none"/>
+      <rect x="1.5" y="1.5" width="407" height="85" rx="42.5" fill="none"/>
+    </g>
+    <text id="STAKE" transform="translate(1529 371)" fill="#f2e4e4" stroke="#000" stroke-width="1" font-size="39" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">STAKE</tspan></text>
+    <text id="STAKE-2" data-name="STAKE" transform="translate(1529 527)" fill="#f2e4e4" stroke="#000" stroke-width="1" font-size="39" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">STAKE</tspan></text>
+    <text id="Total_Liquidity" data-name="Total Liquidity" transform="translate(854 227)" stroke="#000" stroke-width="1" font-size="39" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Total Liquidity</tspan></text>
+    <text id="All_rights_reserved_ACOM_2021" data-name="All rights reserved ACOM 2021" transform="translate(756.5 1059.5)" stroke="#000" stroke-width="1" font-size="28" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">All rights reserved ACOM 2021</tspan></text>
+    <text id="Contact_US" data-name="Contact US" transform="translate(713.5 994.5)" stroke="#000" stroke-width="1" font-size="28" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Contact US</tspan></text>
+    <text id="FAQ" transform="translate(923 994.5)" stroke="#000" stroke-width="1" font-size="28" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">FAQ</tspan></text>
+    <text id="Community" transform="translate(1035.5 994.5)" stroke="#000" stroke-width="1" font-size="28" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Community</tspan></text>
+  </g>
+</svg>

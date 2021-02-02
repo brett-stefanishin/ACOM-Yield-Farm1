@@ -1,1 +1,38 @@
 /* Styles go here */
+
+.pair-table-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 50px 225px;
+  position: absolute;
+  left: 175px;
+  top: 415px;
+  z-index: 1;
+}
+
+.stake-button-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px 190px;
+  position: absolute;
+  left: 1000px;
+  top: 385px;
+  z-index: 1;
+}
+
+.stakePoolDisplay {
+  font-size: 20px;
+  font-family: "Krungthep";
+}
+
+.backgroundAsset {
+  z-index: 1;
+  position: absolute;
+  top: -125px;
+  left: -50px;
+}
+
+.stakeButton {
+  opacity: 0.33;
+  font-size: 25px;
+}

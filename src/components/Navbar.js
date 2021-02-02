@@ -5,7 +5,7 @@ import "./Navbar.css";
 class Navbar extends Component {
   render() {
     return (
-      <nav className="navbar fixed-top bg-dark flex-md-nowrap shadow nav-color">
+      <nav className="navbar fixed-top bg-dark flex-md-nowrap shadow">
         <div className="navbar-brand addressBold">
           <div className="title-text">
             &nbsp; ACOM Yield Farm

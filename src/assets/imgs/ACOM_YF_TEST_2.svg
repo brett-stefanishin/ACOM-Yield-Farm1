@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#ffdab9"/>
+    <text id="A" transform="translate(750.128 385.5) rotate(-8)" fill="pink" stroke="#9b9090" stroke-width="1" font-size="189" font-family="MarkerFelt-Thin, Marker Felt" font-weight="200" opacity="0.5"><tspan x="0" y="0">A</tspan></text>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(180 484)" fill="#f2e4e4" stroke="pink" stroke-width="1" opacity="0.7">
+      <rect width="1201" height="218" rx="43" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1200" height="217" rx="42.5" fill="none"/>
+    </g>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1076 530)" fill="#ffdab9" stroke="pink" stroke-width="3">
+      <rect width="185" height="46" rx="23" stroke="none"/>
+      <rect x="1.5" y="1.5" width="182" height="43" rx="21.5" fill="none"/>
+    </g>
+    <text id="STAKE" transform="translate(1122 564)" fill="pink" stroke="#9b9090" stroke-width="1" font-size="29" font-family="Krungthep"><tspan x="0" y="0">STAKE</tspan></text>
+    <text id="Total_Liquidity" data-name="Total Liquidity" transform="translate(635 469)" stroke="pink" stroke-width="1" font-size="26" font-family="Krungthep" opacity="0.9"><tspan x="0" y="0">Total Liquidity</tspan></text>
+    <text id="All_rights_reserved_ACOM_2021" data-name="All rights reserved ACOM 2021" transform="translate(243.5 913)" stroke="pink" stroke-width="1" font-size="28" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">All rights reserved ACOM 2021</tspan></text>
+    <text id="Contact_US" data-name="Contact US" transform="translate(109 859)" stroke="pink" stroke-width="1" font-size="28" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Contact US</tspan></text>
+    <text id="FAQ" transform="translate(419 859)" stroke="pink" stroke-width="1" font-size="28" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">FAQ</tspan></text>
+    <text id="Community" transform="translate(626 859)" stroke="pink" stroke-width="1" font-size="28" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Community</tspan></text>
+    <text id="Available_Pairs" data-name="Available Pairs" transform="translate(223 469)" stroke="pink" stroke-width="1" font-size="26" font-family="Krungthep" opacity="0.9"><tspan x="0" y="0">Available Pairs</tspan></text>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(1076 617)" fill="#ffdab9" stroke="pink" stroke-width="3">
+      <rect width="185" height="46" rx="23" stroke="none"/>
+      <rect x="1.5" y="1.5" width="182" height="43" rx="21.5" fill="none"/>
+    </g>
+    <text id="STAKE-2" data-name="STAKE" transform="translate(1122 651)" fill="pink" stroke="#9b9090" stroke-width="1" font-size="29" font-family="Krungthep"><tspan x="0" y="0">STAKE</tspan></text>
+    <text id="ACOM_YIELD_FARM" data-name="ACOM YIELD FARM" transform="translate(484.5 355.5)" fill="pink" stroke="#9b9090" stroke-width="1" font-size="67" font-family="Krungthep" opacity="0.9"><tspan x="0" y="0">ACOM YIELD FARM</tspan></text>
+  </g>
+</svg>
