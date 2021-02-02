@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class PairOne extends Component {
+class Pairs extends Component {
   render() {
     return (
       <div>
@@ -10,4 +10,4 @@ class PairOne extends Component {
   }
 }
 
-export default PairOne;
+export default Pairs;

@@ -1,27 +1,27 @@
 import {
-  PairList,
-  PairOne,
-  PairTwo
+  Pairs,
+  ETHPair,
+  BNBPair
 } from "./screens";
 
 const routes = [
   {
-    key: "Pair List",
+    key: "Pairs",
     exact: true,
-    path: "/",
-    component: PairList,
+    path: "/ACOM-AGOV/pairs",
+    component: Pairs,
   },
   {
-    key: "Pair One",
+    key: "ETHPair",
     exact: true,
     path: "/ACOM-AGOV/ETH",
-    component: PairOne,
+    component: ETHPair,
   },
   {
-    key: "Pair Two",
+    key: "BNBPair",
     exact: true,
     path: "/ACOM-AGOV/BNB",
-    component: PairTwo,
+    component: BNBPair,
   }
 ];
 

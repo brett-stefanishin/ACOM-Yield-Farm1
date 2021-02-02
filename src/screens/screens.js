@@ -1,3 +1,3 @@
-export { default as PairList } from "./pair_list";
-export { default as PairOne } from "./pair_one";
-export { default as PairTwo } from "./pair_two";
+export { default as Pairs } from "./Pairs";
+export { default as ETHPair } from "./ETHPair";
+export { default as BNBPair } from "./BNBPair";

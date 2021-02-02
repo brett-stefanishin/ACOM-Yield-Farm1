@@ -6,6 +6,8 @@ import Web3 from "web3";
 //import AcomToken from "../abis/AcomToken.json";
 import AgovToken from "../abis/AgovToken.json";
 import TokenFarm from "../abis/TokenFarm.json";
+import EntryScreen from "../screens";
+import { BrowserRouter as Router } from "react-router-dom";
 //import * as net from "net";
 //import AbiArray from "../testcontracts/AcomArray.json"
 
@@ -173,17 +175,9 @@ class App extends Component {
       <div>
         <Navbar account={this.state.account} />
         <div className="container-fluid mt-5">
-          <div className="row">
-            <main
-              role="main"
-              className="col-lg-12 ml-auto mr-auto"
-              style={{ maxWidth: "600px" }}
-            >
-              <div className="content mr-auto ml-auto">
-                {content}
-              </div>
-            </main>
-          </div>
+          <Router>
+            <EntryScreen />
+          </Router>
         </div>
       </div>
     );

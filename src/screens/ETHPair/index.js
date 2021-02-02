@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class PairList extends Component {
+class ETHPair extends Component {
   render() {
     return (
       <div>
@@ -10,4 +10,5 @@ class PairList extends Component {
   }
 }
 
-export default PairList;
+
+export default ETHPair;
