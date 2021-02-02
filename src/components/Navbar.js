@@ -5,23 +5,12 @@ import "./Navbar.css";
 class Navbar extends Component {
   render() {
     return (
-      <nav className="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow ">
-        <a
-          className="navbar-brand col-sm-3 col-md-2 mr-0 sextext addressBold"
-          href="https://acom.uno/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img
-            src={acom_logo}
-            width="30"
-            height="30"
-            className="d-inline-block align-top"
-            alt=""
-          />
-          &nbsp; ACOM Yield Farm <i className ="binanceNavTitle"> On Binance Smart Chain </i>
-        </a>
-
+      <nav className="navbar fixed-top bg-dark flex-md-nowrap shadow nav-color">
+        <div className="navbar-brand addressBold">
+          <div className="title-text">
+            &nbsp; ACOM Yield Farm
+          </div>
+        </div>
         <ul className="navbar-nav px-3">
           <li className="nav-item text-nowrap d-none d-sm-none d-sm-block">
           <b className="addressBold">Address:&nbsp;</b>

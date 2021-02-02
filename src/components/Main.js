@@ -8,7 +8,7 @@ class Main extends Component {
   render() {
     return (
       <div id="content" className="mt-3 text-center">
-      <div id="theBigShow" className="lowerBold sextext theBigShow titleText">
+      <div className="navbar-title">
         Welcome to the ACOM Yield Farm on Binance Smart Chain
       </div>
       <br></br>

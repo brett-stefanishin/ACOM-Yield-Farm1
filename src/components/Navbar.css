@@ -1,5 +1,10 @@
 /* Styles go here */
 
-.binanceNavTitle {
-  color: #ffcc00;
+.nav-color {
+  color: #F2E4E4;
+}
+
+.title-text {
+  color: black;
+  font-size: 30px;
 }
